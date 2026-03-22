@@ -1,2 +1,3 @@
 # Raghul_SK
 An Autobiography.
+"Hello! My name is Raghul.S.K, a CSE (AI & ML) student at VIT Bhopal University [2025 - 2029]. I’ve always aimed for excellence, ranking as the second topper in my 10th grade (94%) and third topper in my 12th grade (92%) under the ICSE/ISC boards. Beyond the classroom, I am a footballer for Coimbatore City FC, which has instilled in me a deep sense of discipline and teamwork. I approach every technical challenge with an optimistic mindset and a drive to build intelligent, impactful solutions. Further my aim is to bring a great impact to the society we thrive in through aritificial intelligene and machine learning."
